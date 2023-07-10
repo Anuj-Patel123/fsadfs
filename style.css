@@ -1,0 +1,35 @@
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom:0;
+    width:100%;
+    background-color:rgb(0, 0, 0);
+    line-height: 3;
+    text-align: center;
+   }
+   .test_image_and_result {
+    background-color: grey;
+    color:white;
+    border-radius: 20px;
+    margin-bottom: 100px;
+    box-shadow:10px 5px 5px grey;
+    
+
+   }
+   body {
+    margin:5px;
+    padding:5px;
+    width: 100%;
+    overflow:scroll;
+   }
+.img-responsive {
+    float: none;
+    padding: 10px; 
+    border-radius: 19px; 
+    box-shadow:5px 5px 5px grey;
+}
+#case {
+    background-color:cornsilk;
+    color: black;
+    border-radius: 20px;
+}
